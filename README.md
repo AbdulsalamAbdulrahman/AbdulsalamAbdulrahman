@@ -1,107 +1,112 @@
-# Hello, I'm Abdulsalam Abdulrahman 👋
+<div align="center">
 
-A passionate **Full-Stack Developer** with expertise in building scalable web and mobile applications. I specialize in **Laravel**, **Flutter**, **PHP**, **JavaScript**, and modern frameworks. Dedicated to creating elegant solutions for complex business problems.
+# Hi, I'm Abdulsalam Abdulrahman 👋
 
----
+### Full-Stack Developer — Laravel · Flutter · PHP · JavaScript
 
-## 🎯 What I Do
+I build **production-grade web and mobile applications** — from database and API design through to polished UI. I care about clean architecture, maintainable code, and solving real business problems end to end.
 
-- 🚀 **Full-Stack Web Development** - Laravel, PHP, Svelte, Inertia.js
-- 📱 **Mobile Development** - Flutter for iOS and Android
-- 🎨 **Frontend Development** - JavaScript, HTML, CSS, Vue, Svelte
-- 🛠️ **Backend & APIs** - PHP, Laravel, REST APIs, Database Design
-- 🌐 **DevOps & Deployment** - VPS deployment, Dokploy, Nixpacks
-- 📊 **Enterprise Solutions** - ERP Systems, HRIS, CMS platforms
+![Profile views](https://komarev.com/ghpvc/?username=AbdulsalamAbdulrahman&color=2496ED&style=flat-square)
+
+</div>
 
 ---
 
-## 💼 Featured Projects
+## 🧩 What I Do
 
-### Full-Stack Enterprise Solutions
-- **[dit](https://github.com/AbdulsalamAbdulrahman/dit)** - DICON Institute platform (Laravel + Inertia + Svelte 5) with public site, student portal, and admin CMS
-- **[SafePick](https://github.com/AbdulsalamAbdulrahman/safepick)** - Student safety pickup verification system (Web + Mobile)
-- **[SafePick Mobile](https://github.com/AbdulsalamAbdulrahman/safepick-mobile)** - Flutter mobile app for SafePick system
+- 🚀 **Full-Stack Web** — Laravel, PHP, Inertia.js, Svelte, Vue, Blade
+- 📱 **Mobile** — Flutter (iOS & Android)
+- 🛠️ **Backend & APIs** — REST APIs, database design, payment & third-party integrations
+- 🏢 **Enterprise Systems** — multi-role workflows, ERP / HRIS / CMS-style platforms
+- 🌐 **DevOps & Deployment** — VPS, Docker, Dokploy, Nixpacks, GitHub Actions
 
-### Backend & API Projects
-- **[Plain PHP VPS Test](https://github.com/AbdulsalamAbdulrahman/plain-php-vps-test)** - PHP + MySQL test app for VPS deployment
-- **[Telepsych](https://github.com/AbdulsalamAbdulrahman/telepsych)** - PHP teleconsultation project
+---
 
-### Flutter Applications
-- **[Car Pooling App](https://github.com/AbdulsalamAbdulrahman/car_pooling_app)** - Ride-sharing mobile app
-- **[Chemistry App](https://github.com/AbdulsalamAbdulrahman/chemistry_app)** - Educational chemistry learning app
-- **[Foodie](https://github.com/AbdulsalamAbdulrahman/foodie)** - Food delivery mobile app
-- **[Invoice X](https://github.com/AbdulsalamAbdulrahman/invoicex)** - Invoicing system for mobile
+## 💼 Selected Work
 
-### Utilities & Tools
-- **[Gradient Generator](https://github.com/AbdulsalamAbdulrahman/gradient-generator)** - Generate CSS gradients with live preview
-- **[Flutter GH Pages](https://github.com/AbdulsalamAbdulrahman/flutter-gh-pages)** - Automate Flutter web deployment to GitHub Pages
-- **[Flutter Basic Widgets](https://github.com/AbdulsalamAbdulrahman/FlutterBasicWidgets)** - Learning resource for Flutter beginners
+> My strongest work lives in private / client repositories. Here's a sample, described by scope and impact rather than links.
+
+**⚡ Electricity Utility Metering & Payments Platform**
+Laravel + MySQL platform for a power-distribution utility — new-service applications, multi-role approval workflows (field → metering → supervisor → admin), meter assignment and installation tracking, and a live payment-gateway integration with automated settlement reconciliation. Running in production, serving real customers.
+
+**🎓 Institute & Learning Platform**
+Laravel + Inertia + Svelte 5 — public marketing site, student portal, and an admin CMS managing courses, content, and enrolments behind a single codebase.
+
+**🩺 Telehealth Consultation Platform**
+PHP web platform connecting patients with practitioners for remote consultations — scheduling, session management, and records.
+
+**🚸 Student Safety & Pickup Verification System**
+Web dashboard + Flutter mobile app that verifies authorised guardians at student pickup, reducing manual checks and improving safety.
+
+**📱 Mobile Applications (Flutter)**
+A range of cross-platform apps spanning ride-sharing, food delivery, invoicing, and education.
+
+<!--
+  EDIT ME: Replace or reorder the entries above with your actual top private projects.
+  Keep client names out — describe the DOMAIN (e.g. "a fintech client"), your ROLE,
+  the STACK, and the IMPACT. That reads stronger than a repo link.
+-->
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-- PHP, Dart, JavaScript, C++, HTML, CSS, SQL
+**Languages**
 
-**Frameworks & Libraries:**
-- Laravel, Flutter, Vue.js, Svelte, Inertia.js, Blade
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Databases:**
-- MySQL, PostgreSQL
+**Frameworks & Libraries**
 
-**DevOps & Tools:**
-- Git, Docker, Dokploy, Nixpacks, GitHub Actions
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Frontend:**
-- JavaScript, HTML/CSS, Responsive Design, UI/UX Implementation
+**Databases & DevOps**
 
----
-
-## 📈 My Journey
-
-I have over 40 repositories spanning multiple domains, including:
-- 🎓 Educational projects and learning resources
-- 🏢 Enterprise-level systems (ERP, HRIS, CMS)
-- 📱 Mobile-first applications
-- 🎨 Creative web tools and utilities
-- 🚀 Deployment and DevOps automation
-
----
-
-## 🌟 Highlights
-
-- Experienced in building **production-ready** applications
-- Strong understanding of **software architecture** and best practices
-- Proficient in **full-stack development** from database to UI
-- Passionate about **clean code** and **maintainability**
-- Comfortable working with **modern development workflows**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 📊 Repository Statistics
+## 📊 GitHub Stats
 
-- **Total Repositories:** 40+
-- **Primary Languages:** PHP, Dart, JavaScript, C++
-- **Project Types:** Full-Stack Apps, Mobile Apps, Web Tools, Educational Projects
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulsalamAbdulrahman&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulsalamAbdulrahman&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 
-## 🤝 Open to Collaboration
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulsalamAbdulrahman&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
-I'm always interested in:
-- Contributing to open-source projects
-- Building innovative solutions
-- Collaborating on interesting projects
-- Sharing knowledge with the community
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Open to Work & Collaboration
 
-- 💼 **Portfolio:** Check my repositories below
-- 🔗 **GitHub:** [@AbdulsalamAbdulrahman](https://github.com/AbdulsalamAbdulrahman)
+I'm open to **full-stack and mobile roles**, **freelance projects**, and **open-source collaboration**.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asquare747@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulsalamAbdulrahman)
+<!-- Add these once you have the URLs:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+-->
 
 ---
+
+<div align="center">
 
 **Happy Coding! 🚀**
+
+</div>
