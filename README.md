@@ -83,10 +83,17 @@ A range of cross-platform apps spanning ride-sharing, food delivery, invoicing, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulsalamAbdulrahman&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulsalamAbdulrahman&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<!--
+  Stats & top-languages cards: the shared public service is rate-limited/paused often, so these are
+  disabled until you self-host your own github-readme-stats instance (free, reliable).
+  Guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-recommended
+  Once deployed, replace <YOUR-VERCEL-APP> below with your Vercel domain and remove these comment markers.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulsalamAbdulrahman&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img height="165" src="https://<YOUR-VERCEL-APP>.vercel.app/api?username=AbdulsalamAbdulrahman&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://<YOUR-VERCEL-APP>.vercel.app/api/top-langs/?username=AbdulsalamAbdulrahman&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+-->
+
+<img src="https://streak-stats.demolab.com/?user=AbdulsalamAbdulrahman&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
 </div>
 
