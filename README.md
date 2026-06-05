@@ -14,7 +14,7 @@ I build **production-grade web and mobile applications** — from database and A
 
 ## 🧩 What I Do
 
-- 🚀 **Full-Stack Web** — Laravel, PHP, Inertia.js, Svelte, Vue, Blade
+- 🚀 **Full-Stack Web** — Laravel, PHP, Inertia.js, Svelte, Blade
 - 📱 **Mobile** — Flutter (iOS & Android)
 - 🛠️ **Backend & APIs** — REST APIs, database design, payment & third-party integrations
 - 🏢 **Enterprise Systems** — multi-role workflows, ERP / HRIS / CMS-style platforms
@@ -65,7 +65,6 @@ A range of cross-platform apps spanning ride-sharing, food delivery, invoicing, 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
