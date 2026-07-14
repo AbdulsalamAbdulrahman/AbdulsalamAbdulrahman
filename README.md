@@ -80,7 +80,7 @@ A range of cross-platform apps spanning ride-sharing, food delivery, invoicing, 
 
 ## 📊 GitHub Stats
 
-<!-- Cards generated daily by .github/workflows/github-stats.yml (no Vercel rate limits) -->
+<!-- Generated daily by .github/workflows/github-stats.yml -->
 <div align="center">
 
 <img height="165" src="./profile/stats.svg" alt="GitHub stats" />

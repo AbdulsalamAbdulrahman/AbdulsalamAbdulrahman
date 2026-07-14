@@ -27,8 +27,7 @@ jobs:
           options: >-
             username=${{ github.repository_owner }}&show_icons=true&count_private=true&hide_border=true&theme=tokyonight
           path: profile/stats.svg
-          # Prefer a classic PAT (repo + read:user) for private contribution counts.
-          # Falls back to GITHUB_TOKEN for public stats only.
+          # Optional secret GH_STATS_TOKEN (classic PAT: repo + read:user) for private stats.
           token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
