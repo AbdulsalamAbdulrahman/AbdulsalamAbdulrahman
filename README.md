@@ -80,10 +80,11 @@ A range of cross-platform apps spanning ride-sharing, food delivery, invoicing, 
 
 ## 📊 GitHub Stats
 
+<!-- Cards generated daily by .github/workflows/github-stats.yml (no Vercel rate limits) -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-lac-six-20.vercel.app/api?username=AbdulsalamAbdulrahman&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-lac-six-20.vercel.app/api/top-langs/?username=AbdulsalamAbdulrahman&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=AbdulsalamAbdulrahman&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
